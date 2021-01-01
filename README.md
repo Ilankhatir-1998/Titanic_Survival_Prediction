@@ -48,5 +48,5 @@ Using the patterns you find in the train.csv data, predict whether the other 418
     
 
 
-Do visit my [Linkedin Profile](https://www.linkedin.com/in/ilankhatir-elangovan-a55084145 "Linkdein Profile")
+Do visit my [Linkedin Profile](https://www.linkedin.com/in/ilankhatir-elangovan-a55084145 "linkdein Profile")
 
