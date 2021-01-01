@@ -47,10 +47,10 @@ Using the patterns you find in the train.csv data, predict whether the other 418
         - train.csv
         - test.csv
        
-_Note :- The dataset used for this activity is extracted and processed from [Kaggle](https://www.kaggle.com/c/titanic "Kaggle dataset")
+_Note :- The dataset used for this activity is extracted and processed from_ [Kaggle](https://www.kaggle.com/c/titanic "Kaggle dataset")
 
 Stay Connected :-
-- [_linkedin Profile_](https://www.linkedin.com/in/ilankhatir-elangovan-a55084145 "Linkdein Profile")
+- [_Linkedin Profile_](https://www.linkedin.com/in/ilankhatir-elangovan-a55084145 "Linkdein Profile")
 - [_Kaggle Profile_ ](https://www.kaggle.com/ilankhatirelangovan)
-- [_instagram Profile_](https://www.instagram.com/offl_katir/)
+- [_Instagram Profile_](https://www.instagram.com/offl_katir/)
 
