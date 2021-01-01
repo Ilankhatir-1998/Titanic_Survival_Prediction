@@ -1,7 +1,7 @@
 # Titanic_Survival_Prediction
 
 ## _Overview of problem statement_
-  This is the legendary Titanic ML activity – the best, first challenge for you to dive into ML activity and familiarize yourself with data science.The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
+  This is the legendary Titanic ML activity – the best, first challenge for you to dive into ML activity and familiarize yourself with data science.The activity is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck using the available dataset.
 
 ### _Motivation behind problem_
 **_The sinking of the Titanic is one of the most infamous shipwrecks in history_**
