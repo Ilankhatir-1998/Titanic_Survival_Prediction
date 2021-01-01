@@ -1,4 +1,5 @@
 # Titanic_Survival_Prediction
+![Image](https://github.com/Ilankhatir-1998/Titanic_Survival_Prediction/blob/main/Images/Titanic.jpeg)
 
 ## _Overview of problem statement_
   This is the legendary Titanic ML activity – the best, first challenge for you to dive into ML activity and familiarize yourself with data science.The activity is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck using the available dataset.
@@ -45,8 +46,11 @@ Using the patterns you find in the train.csv data, predict whether the other 418
    - Inputs file :-
         - train.csv
         - test.csv
-    
+       
+_Note :- The dataset used for this activity is extracted and processed from [Kaggle](https://www.kaggle.com/c/titanic "Kaggle dataset")
 
-
-Do visit my [linkedin Profile](https://www.linkedin.com/in/ilankhatir-elangovan-a55084145 "Linkdein Profile")
+Stay Connected :-
+- [_linkedin Profile_](https://www.linkedin.com/in/ilankhatir-elangovan-a55084145 "Linkdein Profile")
+- [_Kaggle Profile_ ](https://www.kaggle.com/ilankhatirelangovan)
+- [_instagram Profile_](https://www.instagram.com/offl_katir/)
 
