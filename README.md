@@ -46,6 +46,7 @@ Using the patterns you find in the train.csv data, predict whether the other 418
    - Inputs file :-
         - train.csv
         - test.csv
+        - gender_submission.csv (Predicted output is projected here)
        
 _Note :- The dataset used for this activity is extracted and processed from_ [Kaggle](https://www.kaggle.com/c/titanic "Kaggle dataset")
 
